@@ -6,7 +6,7 @@
 rng(14);
 
 % Import CasADi
-addpath('C:\Users\Robert Lefringhausen\Documents\CasADi') 
+addpath('') 
 import casadi.*
 
 % Horizon
